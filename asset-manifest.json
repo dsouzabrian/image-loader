@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/dsouzabrian/image-loader/static/css/main.d797c562.chunk.css",
+    "main.js": "/dsouzabrian/image-loader/static/js/main.ad108dc5.chunk.js",
+    "main.js.map": "/dsouzabrian/image-loader/static/js/main.ad108dc5.chunk.js.map",
+    "runtime-main.js": "/dsouzabrian/image-loader/static/js/runtime-main.16dee3d3.js",
+    "runtime-main.js.map": "/dsouzabrian/image-loader/static/js/runtime-main.16dee3d3.js.map",
+    "static/js/2.e233e40b.chunk.js": "/dsouzabrian/image-loader/static/js/2.e233e40b.chunk.js",
+    "static/js/2.e233e40b.chunk.js.map": "/dsouzabrian/image-loader/static/js/2.e233e40b.chunk.js.map",
+    "static/js/3.8afc21e6.chunk.js": "/dsouzabrian/image-loader/static/js/3.8afc21e6.chunk.js",
+    "static/js/3.8afc21e6.chunk.js.map": "/dsouzabrian/image-loader/static/js/3.8afc21e6.chunk.js.map",
+    "index.html": "/dsouzabrian/image-loader/index.html",
+    "static/css/main.d797c562.chunk.css.map": "/dsouzabrian/image-loader/static/css/main.d797c562.chunk.css.map",
+    "static/js/2.e233e40b.chunk.js.LICENSE.txt": "/dsouzabrian/image-loader/static/js/2.e233e40b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.16dee3d3.js",
+    "static/js/2.e233e40b.chunk.js",
+    "static/css/main.d797c562.chunk.css",
+    "static/js/main.ad108dc5.chunk.js"
+  ]
+}
